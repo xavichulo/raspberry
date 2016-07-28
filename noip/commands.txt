@@ -1,0 +1,11 @@
+Config files:
+
+/usr/local/etc/no-ip2.conf
+
+Commands
+
+/usr/local/bin/noip2 -C               Configure the client noip
+/usr/local/bin/noip2                  Start the client noip
+/usr/local/bin/noip2 -S               Show the status  Client
+/usr/local/bin/noip2 -D pid           Change state of debugging PID client
+/usr/local/bin/noip2 -K pid           Stop PID client
